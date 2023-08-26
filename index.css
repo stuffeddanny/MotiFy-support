@@ -54,9 +54,10 @@
   max-width: var(--dl-size-size-maxwidth);
   align-self: center;
   align-items: center;
-  padding-top: var(--dl-space-space-twounits);
+  padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
   justify-content: center;
 }
 .home-image1 {
@@ -90,8 +91,10 @@
   max-width: var(--dl-size-size-maxwidth);
   align-self: center;
   align-items: center;
+  padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
   justify-content: center;
 }
 .home-container6 {
@@ -125,8 +128,10 @@
   max-width: var(--dl-size-size-maxwidth);
   align-self: center;
   align-items: center;
+  padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
   justify-content: center;
 }
 .home-image3 {
