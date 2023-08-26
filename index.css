@@ -202,13 +202,13 @@
   width: 100%;
   border-width: 0px;
   border-radius: var(--dl-radius-radius-radius8);
-  background-color: var(--dl-color-gray-900);
+  background-color: #e7e7e7;
 }
 .home-textinput1 {
   width: 100%;
   border-width: 0px;
   border-radius: var(--dl-radius-radius-radius8);
-  background-color: var(--dl-color-gray-900);
+  background-color: #e7e7e7;
 }
 .home-textarea {
   width: 100%;
@@ -217,7 +217,7 @@
   padding-left: 1rem;
   border-radius: var(--dl-radius-radius-radius8);
   padding-right: 1rem;
-  background-color: var(--dl-color-gray-900);
+  background-color: #e7e7e7;
 }
 .home-button {
   width: 100%;
