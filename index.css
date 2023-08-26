@@ -240,6 +240,17 @@
   color: var(--dl-color-gray-700);
   font-size: 14px;
 }
+
+.home-navlink {
+  color: var(--dl-color-gray-700);
+  font-size: 16px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+.home-navlink:hover {
+  text-decoration: underline;
+}
+
 @media(max-width: 991px) {
   .home-container03 {
     gap: var(--dl-space-space-twounits);
